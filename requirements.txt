@@ -1,0 +1,12 @@
+notebook
+ipywidgets
+tqdm
+python-dotenv
+aiml-py-common-utils
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+statistics
